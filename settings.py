@@ -2,7 +2,7 @@ import pygame
 from os.path import join 
 from os import walk
 
-WINDOW_WIDTH, WINDOW_HEIGHT = 1400,1000
+WINDOW_WIDTH, WINDOW_HEIGHT = 1200,700
 TILE_SIZE = 64
 
 class GameState:
